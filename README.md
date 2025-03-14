@@ -21,9 +21,9 @@
 目前暂无开源计划，故这纯粹是分享。
 
 ### 4.部分贴图
-![image](https://img2024.cnblogs.com/blog/3248660/202503/3248660-20250314133345968-624509472.png)
-![image](https://img2024.cnblogs.com/blog/3248660/202503/3248660-20250314133353710-1479756266.png)
-![image](https://img2024.cnblogs.com/blog/3248660/202503/3248660-20250314133401560-731546088.png)
+![image](./image/home.png)
+![image](./image/mapremote.png)
+![image](./image/setting.png)
 
 
 [本文章的原文地址](https://www.cnblogs.com/yqbaowo/p/18770606)
